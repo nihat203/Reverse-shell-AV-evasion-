@@ -6,6 +6,6 @@ educational purposes only
 <br>
 Usage "re64.exe [ip] [port]"
 <br>
-This project was heavily inspired by <a href="https://github.com/paranoidninja/0xdarkvortex-MalwareDevelopment/blob/master/prometheus.cpp">0xdarkvortex</a> (even most part of the code is same lmao)
+This project was heavily inspired by <a href="https://github.com/paranoidninja/0xdarkvortex-MalwareDevelopment/blob/master/prometheus.cpp">0xdarkvortex</a>
 
 Do consider, 32 bit variant is more detectable by AV
